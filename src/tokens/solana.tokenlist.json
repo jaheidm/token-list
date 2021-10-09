@@ -63,18 +63,18 @@
   "tokens": [
     {
       "chainId": 101,
-      "address": "31HcuZjFHCV8VcydRjXz9NFnte4RVRRuR5n9rECfy79W",
-      "symbol": "BOOZ",
-      "name": "boozcoin",
+      "address": " HjJ2SJxYz4mEgWm9oxWYBiHVRNH5H98uwKTyqTXhofLa",
+      "symbol": "JAH",
+      "name": "jahcoin",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/jatoshi/token-list/main/BoozCoin%20Logo%202021-07-21.png",
+      "logoURI": "",
       "tags": [
-        "boozcoin"
+        "jahcoin"
       ],
       "extensions": {
-        "website": "https://boozcoin.com/",
-        "telegram": "https://t.me/boozcoin",
-        "twitter": "https://twitter.com/boozcoin"
+        "website": "",
+        "telegram": "",
+        "twitter": "https://twitter.com/mmonalds"
       }
     },
   {
