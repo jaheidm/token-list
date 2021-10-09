@@ -16406,3 +16406,11 @@
     "patch": 2
   }
 }
+chainId": 101,
+      "address": "HjJ2SJxYz4mEgWm9oxWYBiHVRNH5H98uwKTyqTXhofLa",
+      "symbol": "JAH",
+      "name": "jahcoin",
+      "decimals": 9,
+      "logoURI": "https://user-images.githubusercontent.com/49950304/136638408-2c76c5b8-0227-4519-8b99-092203fbd260.jpg",
+      "extensions": {
+        "coingeckoId": ""
